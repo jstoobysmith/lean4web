@@ -3,6 +3,10 @@ defaultTargets = ["PhysLeanLatest"]
 # -- Optional inclusion for LeanCopilot
 #moreLinkArgs = ["-L./.lake/packages/LeanCopilot/.lake/build/lib", "-lctranslate2"]
 
+
+[[lean_lib]]
+name = "PhysLeanLatest" 
+
 [[require]]
 name = "PhysLean"
 git = "https://github.com/HEPLean/PhysLean"
