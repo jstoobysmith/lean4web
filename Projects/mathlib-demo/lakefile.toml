@@ -1,5 +1,0 @@
-name = "mathlibLatest"
-defaultTargets = ["MathlibLatest"]
-
-[[lean_lib]]
-name = "MathlibLatest"
