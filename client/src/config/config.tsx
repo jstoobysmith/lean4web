@@ -5,8 +5,8 @@ const lean4webConfig : LeanWebConfig = {
     { "folder": "PhysLeanLatest",
         "name": "PhysLeanLatest" }
   ],
-  "serverCountry": null,
-  "contactDetails": null,
+  "serverCountry": "United Kingdom",
+  "contactDetails": "Joseph Tooby-Smith, josephs@ru.is",
   "impressum": null
 }
 
