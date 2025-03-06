@@ -10,4 +10,4 @@ name = "PhysLeanLatest"
 [[require]]
 name = "PhysLean"
 git = "https://github.com/HEPLean/PhysLean"
-rev = "v4.17.0"
+rev = "master"
